@@ -1,0 +1,2 @@
+Primer linea de informacion del archivo
+segunda  linea de informacion del archivo
